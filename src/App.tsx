@@ -1478,7 +1478,7 @@ function MusicVideoStudio({ onClose, onSave }) {
           const skinBot=isMale?"rgba(135,88,52,1)":"rgba(155,102,65,1)";
           // Shoulder width — male broader
           const shoulderW=isMale?H*0.075:H*0.055;
-
+llł
           if(isSilhouette){
             ctx.fillStyle="rgba(2,1,1,0.97)";
             // Head
